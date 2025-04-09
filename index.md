@@ -41,9 +41,6 @@ These interactive elements improve clarity, allowing users to explore the data f
 - [📁 The Data](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv)  
 - [📓 The Notebook](https://github.com/ishandesaii/hw5/blob/main/hw5_notebook.ipynb)
 
----
-
-## 📈 Visualizations
 
 <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
 <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
